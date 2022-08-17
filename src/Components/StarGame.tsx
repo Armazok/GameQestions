@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import {Game} from "./Game";
 import {Result} from "./Result";
-import {questionsType} from "./App";
+import {questionsType} from "../App";
 
 export const StarGame = () => {
     let [open, setOpen] = useState(false)

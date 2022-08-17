@@ -1,5 +1,5 @@
 import React from "react";
-import './App.css';
+import '../App.css';
 import {Link, NavLink, useNavigate} from "react-router-dom";
 
 type ResultType = {

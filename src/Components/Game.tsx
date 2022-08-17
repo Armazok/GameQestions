@@ -1,6 +1,6 @@
 import React from "react";
-import './App.css';
-import {questionsType} from "./App";
+import '../App.css';
+import {questionsType} from "../App";
 
 type GameType = {
     percentage: () => number
